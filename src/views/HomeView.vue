@@ -1,5 +1,5 @@
 <template>
   <section>
-    This is the project list
+    This is the Home View
   </section>
 </template>
