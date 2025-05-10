@@ -95,10 +95,6 @@ La aplicación consume los siguientes endpoints:
 - [x] Mensajes de error y loaders durante las peticiones
 - [x] Documentación básica (este README)
 
-## Capturas de Pantalla
-
-(Se recomienda incluir capturas de las vistas principales, formularios y el diseño responsivo)
-
 ## Autor
 
 Alex Farfán - [GitHub](https://github.com/loweffort-alt)
